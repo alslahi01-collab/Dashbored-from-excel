@@ -1,5 +1,5 @@
 # Dashbored-from-excel
-Mohammed Alslahi
+Mohammed Alslahi محمد الصلاحي
 # Smart Data Analyzer (Arabic) 📊
 
 موقع يعمل بالذكاء الاصطناعي لتحليل ملفات الإكسل، توحيد المسميات المتشابهة تلقائياً، وتوليد تقارير Word ولوحات معلومات تفاعلية.
